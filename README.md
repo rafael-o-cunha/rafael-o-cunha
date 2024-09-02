@@ -29,19 +29,19 @@
 ---
 
 ### 🗂️ Sobre:
-Este espaço foi criado para organizar e facilitar o acesso a todos os meus projetos e estudos diversos *públicos*, que estão divididos por categorias e stacks de tecnologia. Meu objetivo é oferecer uma visão clara e estruturada dos projetos que venho desenvolvendo, permitindo que você navegue facilmente e explore cada um deles.
+Este espaço foi criado para organizar e facilitar o acesso a todos os meus projetos e estudos diversos *públicos*, que estão divididos por categorias e stacks de tecnologia. Meu objetivo é oferecer uma visão clara e estruturada do que venho desenvolvendo, permitindo que você navegue facilmente e explore cada um deles.
 
 ### 📌  Organização
-Os projetos estão organizados em diferentes categorias, baseadas nos tipo de projeto e nas stacks utilizadas:
+Categorias:
 <ul>
   <li>
-    <strong>Web:</strong> Projetos focados no desenvolvimento de aplicações web, APIs, etc.
+    <strong>Web:</strong> Desenvolvimento de aplicações web, APIs, etc.
   </li>
   <li>
-    <strong>Desktop:</strong> Projetos docados no desenvolvimento Desktop, CLI, etc.
+    <strong>Desktop:</strong> Desenvolvimento Desktop, CLI, etc.
   </li>
   <li>
-    <strong>Devops:</strong> Projetos focados em devops, infra, cloud, CI/CD
+    <strong>Devops:</strong> Devops, infra, cloud, CI/CD
   </li>
   <li>
     <strong>Outros:</strong> Projetos experimentais, Testes ou que não se encaixam nas categorias acima.
@@ -55,7 +55,7 @@ Cada categoria possui um link direto para o respectivo repositório, onde você 
 Este índice foi criado para tornar a navegação mais intuitiva e organizada, permitindo que você encontre rapidamente o que procura. Seja você um recrutador ou alguém interessado em explorar novas ideias e colaborar comigo, este repositório serve como um ponto de partida para descobrir mais sobre projetos e tecnologias que uso ou estou praticando.
 
 Explore as categorias abaixo e mergulhe nos detalhes de cada projeto.
-Estou sempre aberto a dicas e insights sobre organização, tecnologia e projetos.
+Estou sempre aberto a dicas e insights.
 
 Obrigado pela visita!
 
@@ -71,20 +71,13 @@ Obrigado pela visita!
 ---
 
 ## 🚀 Web
-- [Projeto A](https://github.com/usuario/projeto-a) - Uma aplicação React para gerenciamento de tarefas. ![React](https://img.shields.io/badge/React-18.0.0-blue)
-- [Projeto B](https://github.com/usuario/projeto-b) - Website responsivo desenvolvido com HTML, CSS e JavaScript puro. ![HTML5](https://img.shields.io/badge/HTML-5-orange)
 
 ## 🛠️ Desktop
-- [Projeto C](https://github.com/usuario/projeto-c) - API RESTful construída com Node.js e Express. ![Node.js](https://img.shields.io/badge/Node.js-14.0.0-green)
-- [Projeto D](https://github.com/usuario/projeto-d) - Serviço de autenticação usando Python e Flask. ![Python](https://img.shields.io/badge/Python-3.8-blue)
 
 ## 🚀🛠️ Devops
-- [Projeto E](https://github.com/usuario/projeto-e) - Aplicativo móvel desenvolvido com React Native. ![React Native](https://img.shields.io/badge/React_Native-0.64-blue)
 
 ## 📚 Outros
-- [Projeto F](https://github.com/usuario/projeto-f) - Script de automação em Bash para backup de sistemas. ![Bash](https://img.shields.io/badge/Bash-5.0-lightgrey)
-
-- [Go Pratice](https://github.com/rocunha09/go_pratice/blob/main/README.md) - Repositório de práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
+- [Go Pratice](https://github.com/rocunha09/go_pratice/blob/main/README.md) - Práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
 
 ---
 
