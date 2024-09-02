@@ -84,7 +84,7 @@ Obrigado pela visita!
 ## 📚 Outros
 - [Projeto F](https://github.com/usuario/projeto-f) - Script de automação em Bash para backup de sistemas. ![Bash](https://img.shields.io/badge/Bash-5.0-lightgrey)
 
-3. Benefícios desta Abordagem:
+- [Go Pratice](https://github.com/rocunha09/go_pratice/blob/main/README.md) - Repositório de práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
 
 ---
 
