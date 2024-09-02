@@ -14,7 +14,7 @@
   </span>
 
   <span>
-    <a href="https://github.com/rocunha09/rocunha09/README_EN.md">
+    <a href="https://github.com/rocunha09/rocunha09/blob/main/README_EN.md">
       <img src="https://img.shields.io/badge/-English-blue?style=for-the-badge" alt="English">
     </a>
   </span>
