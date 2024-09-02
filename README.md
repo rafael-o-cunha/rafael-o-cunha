@@ -20,7 +20,7 @@
   </span>
 
   <span>
-    <a href="https://github.com/rocunha09/rocunha09_es">
+    <a href="https://github.com/rocunha09/rocunha09/blob/main/README_ES.md">
       <img src="https://img.shields.io/badge/-Español-red?style=for-the-badge" alt="Español">
     </a>
   </span>
