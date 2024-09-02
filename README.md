@@ -41,7 +41,7 @@ Os projetos estão organizados em diferentes categorias, baseadas nos tipo de pr
     <strong>Desktop:</strong> Projetos docados no desenvolvimento Desktop, CLI, etc.
   </li>
   <li>
-    <strong>devops:</strong> Projetos focados em devops, infra, cloud, CI/CD
+    <strong>Devops:</strong> Projetos focados em devops, infra, cloud, CI/CD
   </li>
   <li>
     <strong>Outros:</strong> Projetos experimentais, Testes ou que não se encaixam nas categorias acima.
