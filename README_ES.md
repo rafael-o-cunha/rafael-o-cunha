@@ -78,5 +78,6 @@ Gracias por visitarme.
 
 ## 📚 Outros
 - [Go Pratice](https://github.com/rocunha09/go_pratice/blob/main/README_ES.md) -Prácticas de Go Lang. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
+- [Python Pratice](https://github.com/rocunha09/python_pratice/blob/main/README.md) - Prácticas de Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
 
 ---
