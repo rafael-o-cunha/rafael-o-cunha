@@ -71,6 +71,7 @@ Obrigado pela visita!
 ---
 
 ## 🚀 Web
+- [Tasks API](https://github.com/rocunha09/tasks/blob/main/README.md) - Projeto Prático Explorando e Revisando Java com Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
 
 ## 🛠️ Desktop
 
