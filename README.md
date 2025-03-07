@@ -62,7 +62,7 @@ Obrigado pela visita!
 
 <div style="display: flex; align-items: center; padding: 10px;">
   <span>
-    <a href="https://www.linkedin.com/in/rafaelcunha09/" target="_blank">
+    <a href="https://www.linkedin.com/in/rafael-o-cunha/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </span>
@@ -82,5 +82,13 @@ Obrigado pela visita!
 - [Python Pratice](https://github.com/rocunha09/python_pratice/blob/main/README.md) - Práticas utilizando a linguagem Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
 
 ---
+
+<!--
+<div align="center">
+<a href="https://github.com/rocunha09">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocunha09&show_icons=true&theme=gruvbox" />
+</a>
+</div>
+-->
 
 
