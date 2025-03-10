@@ -69,6 +69,17 @@ Obrigado pela visita!
 </div>
 
 ---
+<span>
+  <p> </p><p> </p><p> </p><p> </p><p> </p>
+  <a href="#">
+    <img src="https://cdn.awsli.com.br/300x300/173/173680/produto/35980468/e2c8127a2e.jpg" alt="">
+  </a>
+  <p>
+     😅 Github em processo de organização em seus 70 repositórios para serem expostos aqui. 😅
+  </p>
+</span>
+
+---
 
 ## 🚀 Web
 - [Tasks API](https://github.com/rocunha09/tasks/blob/main/README.md) - Projeto Prático Explorando e Revisando Java com Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
