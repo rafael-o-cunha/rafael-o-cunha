@@ -8,19 +8,19 @@
 
 <div style="display: flex; align-items: center; padding: 10px;">
   <span>
-    <a href="https://github.com/rocunha09/rocunha09">
+    <a href="https://github.com/rafael-o-cunha/rafael-o-cunha">
       <img src="https://img.shields.io/badge/-Português-green?style=for-the-badge" alt="Português">
     </a>
   </span>
 
   <span>
-    <a href="https://github.com/rocunha09/rocunha09/blob/main/README_EN.md">
+    <a href="https://github.com/rafael-o-cunha/rafael-o-cunha/blob/main/README_EN.md">
       <img src="https://img.shields.io/badge/-English-blue?style=for-the-badge" alt="English">
     </a>
   </span>
 
   <span>
-    <a href="https://github.com/rocunha09/rocunha09/blob/main/README_ES.md">
+    <a href="https://github.com/rafael-o-cunha/rafael-o-cunha/blob/main/README_ES.md">
       <img src="https://img.shields.io/badge/-Español-red?style=for-the-badge" alt="Español">
     </a>
   </span>
@@ -82,22 +82,22 @@ Obrigado pela visita!
 ---
 
 ## 🚀 Web
-- [Tasks API](https://github.com/rocunha09/tasks/blob/main/README.md) - Projeto Prático Explorando e Revisando Java com Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
+- [Tasks API](https://github.com/rafael-o-cunha/tasks/blob/main/README.md) - Projeto Prático Explorando e Revisando Java com Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
 
 ## 🛠️ Desktop
 
 ## 🚀🛠️ Devops
 
 ## 📚 Outros
-- [Go Pratice](https://github.com/rocunha09/go_pratice/blob/main/README.md) - Práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
-- [Python Pratice](https://github.com/rocunha09/python_pratice/blob/main/README.md) - Práticas utilizando a linguagem Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
+- [Go Pratice](https://github.com/rafael-o-cunha/go_pratice/blob/main/README.md) - Práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
+- [Python Pratice](https://github.com/rafael-o-cunha/python_pratice/blob/main/README.md) - Práticas utilizando a linguagem Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
 
 ---
 
 <!--
 <div align="center">
-<a href="https://github.com/rocunha09">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocunha09&show_icons=true&theme=gruvbox" />
+<a href="https://github.com/rafael-o-cunha">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-o-cunha&show_icons=true&theme=gruvbox" />
 </a>
 </div>
 -->
