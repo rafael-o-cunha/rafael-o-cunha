@@ -75,7 +75,7 @@ Obrigado pela visita!
     <img src="https://cdn.awsli.com.br/300x300/173/173680/produto/35980468/e2c8127a2e.jpg" alt="">
   </a>
   <p>
-     😅 Github em processo de organização em seus 70 repositórios para serem expostos aqui. 😅
+     😅 Github em processo de organização em mais de 50 repositórios para serem expostos aqui. 😅
   </p>
 </span>
 
