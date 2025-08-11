@@ -72,6 +72,7 @@ Gracias por visitarme.
 
 ## 🚀 Web
 - [Tasks API](https://github.com/rafael-o-cunha/tasks/blob/main/README.md) - Proyecto práctico de exploración y revisión de Java con Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
+- [Preguntas y respuestas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README_ES.md) - Praticando desarrollo web con Node.js ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
 
 ## 🛠️ Desktop
 
