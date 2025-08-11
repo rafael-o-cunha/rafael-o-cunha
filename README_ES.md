@@ -62,7 +62,7 @@ Gracias por visitarme.
 
 <div style="display: flex; align-items: center; padding: 10px;">
   <span>
-    <a href="https://www.linkedin.com/in/rafaelcunha09/" target="_blank">
+    <a href="https://www.linkedin.com/in/rafael-o-cunha/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </span>
