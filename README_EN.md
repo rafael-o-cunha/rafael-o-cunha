@@ -74,6 +74,7 @@ Thanks for visiting!
 - [Questions and Answers](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README_EN.md) - "Roots" web application with Node.js featuring question and answer registration. ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
 
 ## 🛠️ Desktop
+- [CPF Generator / Validator(CLI)](https://github.com/rafael-o-cunha/gerador_e_validador_cpf/blob/main/README_EN.md) - creating a simple CPF generator and validator that works via CLI. ![Bash](https://img.shields.io/badge/Python-3.12-blue)
 
 ## 🚀🛠️ Devops
 
