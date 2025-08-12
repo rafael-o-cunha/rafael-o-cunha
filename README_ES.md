@@ -74,8 +74,11 @@ Gracias por visitarme.
 - [Tasks API](https://github.com/rafael-o-cunha/tasks/blob/main/README.md) - Proyecto práctico de exploración y revisión de Java con Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
 - [Preguntas y respuestas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README_ES.md) - Aplicación web “roots” con Node.js con registro de preguntas y respuestas. ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
 
-## 🛠️ Desktop
 
+## 🛠️ Desktop
+- [Generador / Validador de CPF (CLI)](https://github.com/rafael-o-cunha/gerador_e_validador_cpf/blob/main/README_ES.md) - creación de un generador y validador de CPF simple que funciona vía CLI . ![Bash](https://img.shields.io/badge/Python-3.12-blue)
+
+  
 ## 🚀🛠️ Devops
 
 ## 📚 Outros
