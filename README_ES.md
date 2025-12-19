@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    ¡Hola! 👋🏻 ¡Bienvenido al repositorio central de mi proyecto en GitHub! 
+    ¡Hola! 👋🏻 ¡Bienvenido al repositorio central de mi proyecto! 
   </h1>
 </div>
 
