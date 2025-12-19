@@ -6,7 +6,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
   <span>
     <a href="https://github.com/rafael-o-cunha/rafael-o-cunha">
       <img src="https://img.shields.io/badge/-Português-green?style=for-the-badge" alt="Português">
