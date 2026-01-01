@@ -117,6 +117,8 @@ Gracias por visitarme.
 ## 📚 Outros
 - [Go Pratice](https://github.com/rafael-o-cunha/go_pratice/blob/main/README_ES.md) -Prácticas de Go Lang. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
 - [Python Pratice](https://github.com/rafael-o-cunha/python_pratice/blob/main/README.md) - Prácticas de Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
+- [Microproyecto 01 — Componentización e Inyección de Dependencias](https://github.com/rafael-o-cunha/microprojeto_01_java_e_spring_boot/blob/main/README_ES.md) - Microproyecto de I+D que explora la componentización y la inyección de dependencias con Spring Boot. ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-blue)
+
 
 <div><br><br></div>
 ---
