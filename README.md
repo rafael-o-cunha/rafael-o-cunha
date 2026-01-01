@@ -118,7 +118,7 @@ Obrigado pela visita!
 ## 📚 Outros
 - [Go Pratice](https://github.com/rafael-o-cunha/go_pratice/blob/main/README.md) - Práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
 - [Python Pratice](https://github.com/rafael-o-cunha/python_pratice/blob/main/README.md) - Práticas utilizando a linguagem Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
-- [Microprojeto 01 — Componentização e Injeção de Dependência](https://github.com/SEU_USUARIO/SEU_REPO/blob/main/README.md) - Microprojeto de R&D explorando componentização e injeção de dependência com Spring Boot. ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-blue)
+- [Microprojeto 01 — Componentização e Injeção de Dependência](https://github.com/rafael-o-cunha/microprojeto_01_java_e_spring_boot/blob/main/README.md) - Microprojeto de R&D explorando componentização e injeção de dependência com Spring Boot. ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-blue)
 
 ---
 
