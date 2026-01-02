@@ -117,8 +117,9 @@ Thanks for visiting!
 
 ## 📚 Outros
 
-- [Go Pratice](https://github.com/rafael-o-cunha/go_pratice/blob/main/README_EN.md) - Go lang practices. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
-- [Python Pratice](https://github.com/rafael-o-cunha/python_pratice/blob/main/README.md) - Python practices. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
+- [PHP Practice](https://github.com/rafael-o-cunha/PHP_practice) - Practices using the PHP language. ![Bash](https://img.shields.io/badge/PHP-7.1-blue) ![Bash](https://img.shields.io/badge/PHP-7.4-blue) ![Bash](https://img.shields.io/badge/PHP-8.1-blue)
+- [Go Practice](https://github.com/rafael-o-cunha/go_practice/blob/main/README_EN.md) - Go lang practices. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
+- [Python Practice](https://github.com/rafael-o-cunha/python_practice/blob/main/README.md) - Python practices. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
 - [Microproject 01 — Componentization and Dependency Injection](https://github.com/rafael-o-cunha/microprojeto_01_java_e_spring_boot/blob/main/README_EN.md) - R&D microproject exploring componentization and dependency injection with Spring Boot. ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-blue)
 
 
