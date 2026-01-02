@@ -101,6 +101,8 @@ Obrigado pela visita!
 ---
 
 ## 🚀 Web
+
+- [Miniframework MVC PHP ](https://github.com/rafael-o-cunha/miniframework-MVC-PHP/README.md) - Projeto Prático Criando um Miniframework para estudos e pequenos projetos. ![Bash](https://img.shields.io/badge/PHP-7.4-blue)  ![Bash](https://img.shields.io/badge/Composer-blue)
 - [Tasks API](https://github.com/rafael-o-cunha/tasks/blob/main/README.md) - Projeto Prático Explorando e Revisando Java com Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
 - [Perguntas e Respostas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README.md) - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
 
@@ -117,7 +119,7 @@ Obrigado pela visita!
 
 ## 📚 Outros
 
-- [PHP Practice](https://github.com/rafael-o-cunha/PHP_practice) - Práticas utilizando a linguagem PHP. ![Bash](https://img.shields.io/badge/PHP-7.1-blue) ![Bash](https://img.shields.io/badge/PHP-7.4-blue) ![Bash](https://img.shields.io/badge/PHP-8.1-blue)
+- [PHP Practice](https://github.com/rafael-o-cunha/PHP_practice)/blob/main/README.md) - Práticas utilizando a linguagem PHP. ![Bash](https://img.shields.io/badge/PHP-7.1-blue) ![Bash](https://img.shields.io/badge/PHP-7.4-blue) ![Bash](https://img.shields.io/badge/PHP-8.1-blue)
 - [Go Practice](https://github.com/rafael-o-cunha/go_practice/blob/main/README.md) - Práticas utilizando a linguagem Go. ![Bash](https://img.shields.io/badge/Go-1.23.0-blue)
 - [Python Practice](https://github.com/rafael-o-cunha/python_practice/blob/main/README.md) - Práticas utilizando a linguagem Python. ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
 - [Microprojeto 01 — Componentização e Injeção de Dependência](https://github.com/rafael-o-cunha/microprojeto_01_java_e_spring_boot/blob/main/README.md) - Microprojeto de R&D explorando componentização e injeção de dependência com Spring Boot. ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-blue)
