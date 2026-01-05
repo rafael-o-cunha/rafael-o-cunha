@@ -105,6 +105,8 @@ Obrigado pela visita!
 - [Miniframework MVC PHP ](https://github.com/rafael-o-cunha/miniframework-MVC-PHP/blob/main/README.md) - Projeto Prático Criando um Miniframework para estudos e pequenos projetos. ![Bash](https://img.shields.io/badge/PHP-7.4-blue)  ![Bash](https://img.shields.io/badge/Composer-blue)
 - [Tasks API](https://github.com/rafael-o-cunha/tasks/blob/main/README.md) - Projeto Prático Explorando e Revisando Java com Spring. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
 - [Perguntas e Respostas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README.md) - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
+- [App – Lista de Tarefas](https://github.com/rafael-o-cunha/App-Lista-de-Tarefas/blob/main/README.md) - Microprojeto prático explorando fundamentos de backend com PHP puro, implementando um CRUD simples. ![Bash](https://img.shields.io/badge/PHP-7.4-blue)  ![Bash](https://img.shields.io/badge/MySQL-5.7-blue)  
+
 
 <div><br><br></div>
 
