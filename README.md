@@ -87,12 +87,12 @@ Projetos mais completos, focados em aplicação prática e resolução de proble
 
 Projetos menores com foco em aprendizado prático e validação de conceitos específicos através de pesquisa e desenvolvimento.
 
-- [Microprojeto_03_Setup_Exploracao_Aplicacao_Web_Nodejs](https://github.com/rafael-o-cunha/microprojeto_01_nodejs/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
+- [Microprojeto 03 — Setup Exploracao Aplicacao Web com Nodejs](https://github.com/rafael-o-cunha/microprojeto_01_nodejs/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
   - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. 
 
 <br>
 
-- [microprojeto_02_Documentacao_Swagger_SpringBoot](https://github.com/rafael-o-cunha/microprojeto_02_java_e_spring_boot/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
+- [Microprojeto 02 — Documentacao Swagger SpringBoot](https://github.com/rafael-o-cunha/microprojeto_02_java_e_spring_boot/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
   - Projeto Prático Explorando Documentação com Swagger e Revisando Java com Spring Boot. 
 
 <br>
