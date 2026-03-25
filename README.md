@@ -55,6 +55,9 @@ Este repositório funciona como um hub central dos meus projetos públicos.
 
 Aqui você encontrará desde aplicações completas até microprojetos de estudo e experimentos práticos, todos organizados de forma progressiva — refletindo minha evolução em engenharia de software, arquitetura e DevOps.
 
+
+---
+
 <div><br></div>
 
 ## 🎯 Objetivo
@@ -67,6 +70,8 @@ Estou sempre aberto a dicas e insights.
 Obrigado pela visita!
 
 
+---
+
 <div><br></div>
 
 ### 🚀 Projetos
@@ -74,6 +79,7 @@ Obrigado pela visita!
 Projetos mais completos, focados em aplicação prática e resolução de problemas.
 
 
+---
 
 <div><br></div>
 
@@ -84,22 +90,28 @@ Projetos menores com foco em aprendizado prático e validação de conceitos esp
 - [Perguntas e Respostas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README.md)
   - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
 
+<br><br>
 
 - [Tasks API](https://github.com/rafael-o-cunha/tasks/blob/main/README.md)
   - Projeto Prático Explorando Documentação com Swagger e Revisando Java com Spring Boot. ![Bash](https://img.shields.io/badge/Java-17-blue)  ![Bash](https://img.shields.io/badge/Spring-3.4.3-blue)  ![Bash](https://img.shields.io/badge/Swagger-3-blue)
 
+<br><br>
 
 - [Microprojeto 01 — Componentização e Injeção de Dependência](https://github.com/rafael-o-cunha/microprojeto_01_java_e_spring_boot/blob/main/README.md)
   - Microprojeto de R&D explorando componentização e injeção de dependência com Spring Boot. ![Java](https://img.shields.io/badge/Java-17-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.9-blue)
 
+<br><br>
 
 - [Miniframework MVC PHP ](https://github.com/rafael-o-cunha/miniframework-MVC-PHP/blob/main/README.md)
   - Projeto Prático Criando um Miniframework para estudos e pequenos projetos. ![Bash](https://img.shields.io/badge/PHP-7.4-blue)  ![Bash](https://img.shields.io/badge/Composer-blue)
 
+<br><br>
 
 - [App – Lista de Tarefas](https://github.com/rafael-o-cunha/App-Lista-de-Tarefas/blob/main/README.md)
   - Microprojeto prático explorando fundamentos de backend com PHP puro, implementando um CRUD simples. ![Bash](https://img.shields.io/badge/PHP-7.4-blue)  ![Bash](https://img.shields.io/badge/MySQL-5.7-blue)  
 
+
+---
 
 <div><br></div>
 
