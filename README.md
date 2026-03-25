@@ -87,8 +87,8 @@ Projetos mais completos, focados em aplicação prática e resolução de proble
 
 Projetos menores com foco em aprendizado prático e validação de conceitos específicos através de pesquisa e desenvolvimento.
 
-- [Perguntas e Respostas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README.md)
-  - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
+- [Perguntas e Respostas](https://github.com/rafael-o-cunha/perguntas_e_respostas/blob/main/README.md)   &nbsp&nbsp ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
+  - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. 
 
 <br>
 
