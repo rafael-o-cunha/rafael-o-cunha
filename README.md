@@ -124,8 +124,8 @@ Espaço para práticas, experimentos e exploração contínua de linguagens e te
 
 <br>
 
-- [PHP Practice](https://github.com/rafael-o-cunha/PHP_practice/blob/main/README.md)  ![Bash](https://img.shields.io/badge/PHP-7.1-blue) ![Bash](https://img.shields.io/badge/PHP-7.4-blue) ![Bash](https://img.shields.io/badge/PHP-8.1-blue)
-  - Práticas utilizando a linguagem PHP. 
+- [Java Practice](https://github.com/rafael-o-cunha/JavaPractice/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Java-8-blue) ![Bash](https://img.shields.io/badge/Java-17-blue) ![Bash](https://img.shields.io/badge/Java-21-blue)
+  - Práticas utilizando a linguagem Java.
 
 <br>
 
@@ -135,7 +135,16 @@ Espaço para práticas, experimentos e exploração contínua de linguagens e te
 <br>
 
 - [Python Practice](https://github.com/rafael-o-cunha/python_practice/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Python-3.12.3-blue)
-  - Práticas utilizando a linguagem Python. 
+  - Práticas utilizando a linguagem Python.
+
+<br>
+
+- [PHP Practice](https://github.com/rafael-o-cunha/PHP_practice/blob/main/README.md)  ![Bash](https://img.shields.io/badge/PHP-7.1-blue) ![Bash](https://img.shields.io/badge/PHP-7.4-blue) ![Bash](https://img.shields.io/badge/PHP-8.1-blue)
+  - Práticas utilizando a linguagem PHP. 
+
+<br>
+
+
 
 <div><br><br></div>
 
