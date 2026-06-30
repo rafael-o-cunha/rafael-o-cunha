@@ -87,6 +87,11 @@ Projetos mais completos, focados em aplicação prática e resolução de proble
 
 Projetos menores com foco em aprendizado prático e validação de conceitos específicos através de pesquisa e desenvolvimento.
 
+- [Microprojeto 04 — CRUD API com Java e Spring Boot](https://github.com/rafael-o-cunha/microprojeto_04_crud/blob/springboot_jpa/README.md) ![Java](https://img.shields.io/badge/Java-23-blue) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4-blue) ![JPA](https://img.shields.io/badge/Spring_Data_JPA-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+  - Projeto prático de uma API REST que implementa operações CRUD utilizando arquitetura em camadas, Spring Data JPA, DTOs, ResponseEntity, tratamento global de exceções e Soft Delete.
+
+<br>
+
 - [Microprojeto 03 — Setup Exploracao Aplicacao Web com Nodejs](https://github.com/rafael-o-cunha/microprojeto_01_nodejs/blob/main/README.md)  ![Bash](https://img.shields.io/badge/Javascript-ES6-blue)  ![Bash](https://img.shields.io/badge/NodeJs-18-blue)  ![Bash](https://img.shields.io/badge/Express-4.18-blue)  ![Bash](https://img.shields.io/badge/Postgre-8.11-blue)
   - Aplicação web "roots" com Node.js com cadastro de perguntas e respostas. 
 
