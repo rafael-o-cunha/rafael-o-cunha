@@ -87,6 +87,11 @@ Projetos mais completos, focados em aplicação prática e resolução de proble
 
 Projetos menores com foco em aprendizado prático e validação de conceitos específicos através de pesquisa e desenvolvimento.
 
+- [Microprojeto 05 — Modelagem de Dados](https://github.com/rafael-o-cunha/microprojeto_05_modelagem_de_dados/blob/main/README.md) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue) ![Docker](https://img.shields.io/badge/Docker-blue) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-blue) ![ERD](https://img.shields.io/badge/ER_Diagram-blue)
+  - Projeto prático de modelagem de dados que percorre as etapas de engenharia de banco de dados, incluindo levantamento de requisitos, regras de negócio, modelagem, dicionário de dados, implementação física, carga inicial, validação do modelo e documentação de evidências.
+
+<br>
+
 - [Microprojeto 04 — CRUD API com Java e Spring Boot](https://github.com/rafael-o-cunha/microprojeto_04_crud/blob/springboot_jpa/README.md) ![Java](https://img.shields.io/badge/Java-23-blue) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4-blue) ![JPA](https://img.shields.io/badge/Spring_Data_JPA-blue) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
   - Projeto prático de uma API REST que implementa operações CRUD utilizando arquitetura em camadas, Spring Data JPA, DTOs, ResponseEntity, tratamento global de exceções e Soft Delete.
 
